@@ -8,7 +8,7 @@ const MusicPlayer: React.FC = () => {
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
   useEffect(() => {
-    audioRef.current = new Audio('https://mcusercontent.com/17635adc15e4488859eb5650d/files/f01d2da5-deb2-80bd-a1ba-e5605329ea9a/MUSICALAINDG.mp3');
+    audioRef.current = new Audio('https://mcusercontent.com/17635adc15e4488859eb5650d/files/ce7995c9-b2a4-6d23-1494-a7045a724b01/musica_landing_estaesxdxd.mp3');
     audioRef.current.loop = true;
     
     return () => {
