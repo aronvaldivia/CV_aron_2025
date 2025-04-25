@@ -117,16 +117,16 @@ function App() {
                 />
                 
               <p className="text-xl md:text-2xl text-blue-100 mb-8 pt-10">
-                Ingeniero de Software especializado en desarrollo web
+              UX/UI Developer
               </p>
               <div className="flex gap-4">
-                <a href="https://github.com" className="p-2 hover:text-blue-200 transition-colors">
+                <a href="https://github.com/aronvaldivia" className="p-2 hover:text-emerald-200 transition-colors">
                   <Github size={24} />
                 </a>
-                <a href="https://linkedin.com" className="p-2 hover:text-blue-200 transition-colors">
+                <a href="https://www.linkedin.com/in/aron-valdivia-6a3156248/" className="p-2 hover:text-emerald-200 transition-colors">
                   <Linkedin size={24} />
                 </a>
-                <a href="mailto:tu@email.com" className="p-2 hover:text-blue-200 transition-colors">
+                <a href="aronvaldivia0101@gmail.com" className="p-2 hover:text-emerald-200 transition-colors">
                   <Mail size={24} />
                 </a>
               </div>
