@@ -75,7 +75,7 @@ const AboutMe: React.FC = () => {
         <div className="max-w-3xl mx-auto bg-black/50 backdrop-blur-md p-8 rounded-lg shadow-lg border border-white/10">
           <div className="space-y-6">
             <div className="flex items-start gap-4">
-              <Briefcase className="text-white mt-1 " />
+              <Briefcase className="text-white mt-1 " /> 
               <div>
                 <h3 className="text-shadow-lg/30 font-semibold text-emerald-500 ">Experiencia Profesional</h3>
                 <p className="text-white/90">
