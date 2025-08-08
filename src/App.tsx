@@ -46,21 +46,31 @@ function App() {
 
   const projects = [
    
-    {
-      title: "HOCHI IMPORT AND EXPORT",
-      description: "Comercialización mayorista de línea de productos tecnológicos",
-      image: "https://mcusercontent.com/17635adc15e4488859eb5650d/images/54e0c071-f90f-cf16-5e66-7a70c69ed7e7.png",
-      url: "https://hochi.pe/"
+
+
+      {
+      title: "VINDAX TECH",
+      description: "Tienda E-COMMERCE con carrito de venta y mensajes por correo electronico , hecha en react y utilizando API",
+      image: "https://mcusercontent.com/17635adc15e4488859eb5650d/images/431897bd-9e7b-78dc-8798-088c2f72b316.png",
+      url: "https://www.vindaxcom.com/"
     },
-    {
+     {
       title: "ABEXA CLOUD",
-      description: "Empresa de software para Buses y transporte publico",
+      description: "LandingPage Informativa con catalogo virtual y mensajeria por whatsapp",
       image: "https://mcusercontent.com/17635adc15e4488859eb5650d/images/6f7267d5-61e2-4c56-37e1-ebf9fdfde5d7.png",
       url: "https://www.abexacloud.com/"
     },
     {
+      title: "HOCHI IMPORT AND EXPORT",
+      description: "e-commerce desarrollado en Wordpress",
+      image: "https://mcusercontent.com/17635adc15e4488859eb5650d/images/54e0c071-f90f-cf16-5e66-7a70c69ed7e7.png",
+      url: "https://hochi.pe/"
+    },
+   
+  
+    {
       title: "Tienda 'LOS RUSOS' ",
-      description: "Tienda Virtual - Pedidos por mensaje",
+      description: "Catalogo virtual con mensajeria por Whatsapp",
       image: "https://mcusercontent.com/17635adc15e4488859eb5650d/images/8085f325-61b8-9261-89bd-b41b546dc280.png",
       url: "https://rusotienda.netlify.app/"
     }
