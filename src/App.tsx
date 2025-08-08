@@ -54,11 +54,31 @@ function App() {
       image: "https://mcusercontent.com/17635adc15e4488859eb5650d/images/431897bd-9e7b-78dc-8798-088c2f72b316.png",
       url: "https://www.vindaxcom.com/"
     },
+    {
+      title: "Family E-commerce",
+      description: "Tienda virtual para distribuidora de alimentos , panel administrador para edicion de productos y stock / cuenta de prueba id : aron@aronvaldivia.com cont:perroloco  ",
+      image: "https://mcusercontent.com/17635adc15e4488859eb5650d/images/17251c22-1bc2-ef47-f15b-ae77d5bb5726.png",
+      url: "https://gorgeous-frangollo-262855.netlify.app/"
+    },
+
+
      {
       title: "ABEXA CLOUD",
       description: "LandingPage Informativa con catalogo virtual y mensajeria por whatsapp",
       image: "https://mcusercontent.com/17635adc15e4488859eb5650d/images/6f7267d5-61e2-4c56-37e1-ebf9fdfde5d7.png",
       url: "https://www.abexacloud.com/"
+    },
+     {
+      title: "PROtector",
+      description: "Sistema para detectar URL corruptos y evitar estafas",
+      image: "https://mcusercontent.com/17635adc15e4488859eb5650d/images/98e687e8-571a-b552-84ae-d58b1c7239c4.png",
+      url: "https://peaceful-concha-6858cc.netlify.app/"
+    },
+     {
+      title: "BIOclean",
+      description: "Tienda virtual con catalogo y mensajeria por Whatsapp",
+      image: "https://mcusercontent.com/17635adc15e4488859eb5650d/images/adca1578-d36a-0e58-50d3-4be04c6cf3da.png",
+      url: "https://glistening-narwhal-7a6e99.netlify.app/"
     },
     {
       title: "HOCHI IMPORT AND EXPORT",
